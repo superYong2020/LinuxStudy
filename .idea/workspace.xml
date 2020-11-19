@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="62b42ff9-1e09-4c05-bcd9-9092ee3eec87" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/gitTutorial.md" beforeDir="false" afterPath="$PROJECT_DIR$/gitTutorial.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/haha.txt" beforeDir="false" afterPath="$PROJECT_DIR$/haha.txt" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,14 +13,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file leaf-file-name="gitTutorial.md" pinned="false" current-in-tab="true">
+      <file leaf-file-name="gitTutorial.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/gitTutorial.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="FIRST">
-              <first_editor relative-caret-position="238">
+              <first_editor relative-caret-position="-114">
                 <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
               </first_editor>
               <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="haha.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/haha.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
             </state>
           </provider>
         </entry>
@@ -35,6 +44,7 @@
       <list>
         <option value="$PROJECT_DIR$/testReset" />
         <option value="$PROJECT_DIR$/gitTutorial.md" />
+        <option value="$PROJECT_DIR$/haha.txt" />
       </list>
     </option>
   </component>
@@ -115,7 +125,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605769838331</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="update git Tutorial">
+      <created>1605782759892</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605782759892</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -172,7 +189,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="add git tutorial file" />
     <MESSAGE value="test reset" />
-    <option name="LAST_COMMIT_MESSAGE" value="test reset" />
+    <MESSAGE value="update git Tutorial" />
+    <option name="LAST_COMMIT_MESSAGE" value="update git Tutorial" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/testReset">
@@ -221,10 +239,17 @@
     <entry file="file://$PROJECT_DIR$/gitTutorial.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="238">
+          <first_editor relative-caret-position="-114">
             <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/haha.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
         </state>
       </provider>
     </entry>
